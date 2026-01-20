@@ -142,4 +142,4 @@ python evaluation.calculate_avg_metrics --retrieval-technique <TECHNIQUE>
 - LLM Judge Context Quality: Did the retrieval step find the relevant information?
 
 
-Research Paper Link: [Benchmarking Retrieval-Supported Large Language Models for Open-Domain Question Answering]()
+Research Paper Link: [Benchmarking Retrieval-Supported Large Language Models for Open-Domain Question Answering](CENG543_Research_Project_Paper.pdf)
